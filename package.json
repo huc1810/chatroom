@@ -1,0 +1,16 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "Chatroom with node and IO sockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "author": "Hugo UC SOSA",
+  "license": "ISC"
+}
