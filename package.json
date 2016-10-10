@@ -6,11 +6,14 @@
   "scripts": {
     "start": "npm start"
   },
-
   "dependencies": {
     "socket.io": "~0.9.6",
     "mime": "~1.2.7"
   },
   "author": "Hugo UC SOSA",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.2",
+    "gulp": "^3.9.1"
+  }
 }
